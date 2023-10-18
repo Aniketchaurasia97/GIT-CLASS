@@ -1,0 +1,7 @@
+first inititalise git 
+git init
+
+
+u  untracked
+m  
+a  staging area
